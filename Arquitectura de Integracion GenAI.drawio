@@ -384,7 +384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4m4Kjz0OJG7D6ELZ2PR1" name="Página-2">
-    <mxGraphModel dx="2810" dy="2024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3691" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,7 +392,7 @@
           <mxGeometry x="1140" y="-795.49" width="930" height="896.49" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-28" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=0;fillColor=none;fontColor=default;strokeColor=#0000FF;gradientColor=none;dashed=1;align=left;spacingLeft=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="-990" width="840" height="380" as="geometry" />
+          <mxGeometry x="239" y="-909" width="840" height="329" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-14" value="Subnet" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=0;fillColor=default;fontColor=#333333;strokeColor=default;gradientColor=none;align=left;spacingRight=0;dashed=1;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="1260" y="-207.84" width="310" height="290" as="geometry" />
@@ -696,22 +696,22 @@
           <mxGeometry x="1868.18" y="-324.88" width="43.64" height="40" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-31" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-913.5" width="739" height="210" as="geometry" />
+          <mxGeometry x="300" y="-832.5" width="739" height="210" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-52" value="Suscription TI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/other/Azure_A.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="898.9999999999999" y="-1040" width="68" height="64.12" as="geometry" />
+          <mxGeometry x="898.9999999999999" y="-959" width="68" height="64.12" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-53" value="Managed private endpoint subnet" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=0;fillColor=default;fontColor=#333333;strokeColor=default;gradientColor=none;align=left;spacingRight=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="-880" width="150" height="170" as="geometry" />
+          <mxGeometry x="869" y="-799" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-54" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;" vertex="1" parent="1">
-          <mxGeometry x="979" y="-855.01" width="33.4" height="20" as="geometry" />
+          <mxGeometry x="979" y="-774.01" width="33.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-56" value="&lt;div&gt;Machine Learning&lt;div&gt;Workspace&lt;/div&gt;private endpoint&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="1">
-          <mxGeometry x="923.61" y="-813.21" width="40.77" height="37.37" as="geometry" />
+          <mxGeometry x="923.61" y="-732.21" width="40.77" height="37.37" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-58" value="User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="37.370000000000005" y="-855.01" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="37.370000000000005" y="-774.01" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.069;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-53" target="lBeCJa9OPrQgYVO28_kd-8">
           <mxGeometry relative="1" as="geometry">
@@ -720,25 +720,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="06P2fi1zbdXGoe7qevRt-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-62" target="06P2fi1zbdXGoe7qevRt-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="06P2fi1zbdXGoe7qevRt-62" value="web" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web2;" vertex="1" parent="1">
-          <mxGeometry x="533.39" y="-864.84" width="89" height="89" as="geometry" />
-        </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-68" value="Suscription IA" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/other/Azure_A.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1230" y="-835.01" width="68" height="64.12" as="geometry" />
         </mxCell>
-        <mxCell id="06P2fi1zbdXGoe7qevRt-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lBeCJa9OPrQgYVO28_kd-8">
+        <mxCell id="06P2fi1zbdXGoe7qevRt-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-71" target="lBeCJa9OPrQgYVO28_kd-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="-764" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="410" y="-482" />
+              <mxPoint x="495" y="-710" />
+              <mxPoint x="490" y="-710" />
+              <mxPoint x="490" y="-482" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-71" value="Bot Services" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="381" y="-843.84" width="68" height="68" as="geometry" />
+          <mxGeometry x="460.99999999999994" y="-757.89" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="06P2fi1zbdXGoe7qevRt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-58" target="06P2fi1zbdXGoe7qevRt-28">
           <mxGeometry relative="1" as="geometry" />
