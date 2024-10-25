@@ -384,7 +384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4m4Kjz0OJG7D6ELZ2PR1" name="Página-2">
-    <mxGraphModel dx="3691" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2810" dy="2024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,8 +736,26 @@
         <mxCell id="06P2fi1zbdXGoe7qevRt-71" value="Bot Services" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="460.99999999999994" y="-757.89" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="06P2fi1zbdXGoe7qevRt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-58" target="06P2fi1zbdXGoe7qevRt-28">
+        <mxCell id="06P2fi1zbdXGoe7qevRt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-78" target="06P2fi1zbdXGoe7qevRt-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="06P2fi1zbdXGoe7qevRt-74" value="Computo&lt;div&gt;Cluster&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="1736.6399999999999" y="-530" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="06P2fi1zbdXGoe7qevRt-75" value="Computo&lt;div&gt;Cluster&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="1839.9999999999998" y="-530" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="06P2fi1zbdXGoe7qevRt-76" value="Computo&lt;div&gt;Cluster&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="1911.8199999999997" y="-530" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="06P2fi1zbdXGoe7qevRt-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="06P2fi1zbdXGoe7qevRt-58" target="06P2fi1zbdXGoe7qevRt-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="-749" as="sourcePoint" />
+            <mxPoint x="237" y="-763" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06P2fi1zbdXGoe7qevRt-78" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Front_Doors.svg;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-788" width="50" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
