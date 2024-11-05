@@ -1461,7 +1461,7 @@
         <mxCell id="jgy4kUHHk97rDdfCo9_D-25" value="Connector Channels" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=default;fontColor=#333333;strokeColor=default;gradientColor=none;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="725" y="-734" width="170" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="jgy4kUHHk97rDdfCo9_D-5" value="Labguage Studio" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=none;fontColor=default;strokeColor=default;gradientColor=none;dashed=1;align=center;spacingLeft=20;" vertex="1" parent="1">
+        <mxCell id="jgy4kUHHk97rDdfCo9_D-5" value="Language Studio" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=none;fontColor=default;strokeColor=default;gradientColor=none;dashed=1;align=center;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="1250" y="-940" width="740" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_EyYiHOpxZRnt1d3BTiX-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; font-size: 13px;&quot;&gt;Transversal (LandingZone - Capa comun)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=none;fontColor=default;strokeColor=default;gradientColor=none;dashed=1;align=left;spacingLeft=20;fontSize=13;" vertex="1" parent="1">
