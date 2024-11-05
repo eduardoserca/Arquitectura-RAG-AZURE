@@ -1623,12 +1623,6 @@
         <mxCell id="xgSl2yxobgHSYVRzh6Yw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EyYiHOpxZRnt1d3BTiX-14" target="_EyYiHOpxZRnt1d3BTiX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HSVqHTupOGrW_C7mzVLI-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2632" y="-230" as="sourcePoint" />
-            <mxPoint x="2632" y="-264" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_EyYiHOpxZRnt1d3BTiX-14" value="Azure Data Factory" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;container=0;" vertex="1" parent="1">
           <mxGeometry x="2609.18" y="-214.48999999999998" width="50" height="50" as="geometry" />
         </mxCell>
@@ -1882,7 +1876,7 @@
           <mxGeometry x="1852.01" y="-884.3199999999999" width="117.99" height="72.65" as="geometry" />
         </mxCell>
         <mxCell id="HSVqHTupOGrW_C7mzVLI-1" value="Azure Storage&lt;div&gt;Acount&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="2599.1800000000003" y="-360.33000000000004" width="65" height="52" as="geometry" />
+          <mxGeometry x="2600.1800000000003" y="-330.00000000000006" width="65" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
